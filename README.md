@@ -85,7 +85,7 @@ subprocess, ipaddress, threading, etc.) — no pip install is required.
 
 ## Usage
 
-sudo python3 tkin.py
+sudo python3 main.py
 
 The app will prompt for your sudo password via a GUI dialog if not already
 run as root, then re-launch itself elevated.
