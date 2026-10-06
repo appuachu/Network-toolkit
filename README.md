@@ -67,12 +67,12 @@ implemented here.
 
 ## Installation
 
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
-sudo apt update
+```bash
+git clone https://github.com/appuachu/Network-toolkit
+cd Network-toolkit
 sudo apt install -y python3-tk fping
-python3 tkin.py
-
+python3 main.py
+```
 ### Dependencies installed
 
 | Package | Purpose |
